@@ -2,11 +2,11 @@
 
 ![initialScreen](https://github.com/juliaenriquetto/GeometricDraw/blob/main/initialScreen.png)
 
-O GeometricDraw é um programa desenvolvido em C# que oferece um editor de figuras geométricas, permitindo aos usuários desenhar e armazenar diferentes formas utilizando listas ligadas. Essa ferramenta oferece uma maneira interativa e versátil de criar e gerenciar figuras geométricas, explorando os conceitos de estruturas de dados baseadas em listas ligadas. 🖊️🔷
+O **GeometricDraw** é um programa **desenvolvido em C#** que oferece um editor de figuras geométricas, permitindo aos usuários desenhar e armazenar diferentes formas utilizando listas ligadas. Essa ferramenta oferece uma maneira interativa e versátil de criar e gerenciar figuras geométricas, explorando os conceitos de **estruturas de dados** baseadas em **listas ligadas**. 🖊️🔷
 
 ## Desenvolvido por:
-- Clara Andrade
-- Julia Enriquetto
+- [Clara Andrade](https://github.com/claraandradee)
+- [Julia Enriquetto](https://github.com/juliaenriquetto)
 
 ## Objetivo:
 O principal objetivo do GeometricDraw é proporcionar um ambiente para desenho e armazenamento de figuras geométricas, explorando as funcionalidades das listas ligadas. Essa aplicação oferece aos usuários uma forma prática de criar, visualizar e gerenciar formas geométricas de maneira dinâmica.
